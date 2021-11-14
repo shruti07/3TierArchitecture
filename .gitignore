@@ -1,0 +1,23 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate.*
+
+# plan files
+*.plan
+
+# .tfvars files
+# *.tfvars
+
+# Plan
+*.plan
+
+#Disabled
+*.disabled
+
+#*.backendstore
+*.backendstore.*
+
+#secrets
+*.secrets.*
